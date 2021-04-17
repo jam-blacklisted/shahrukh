@@ -423,7 +423,7 @@ def a_s():
         p1 = raw_input(' \033[1;92m[1]Name + digit: ')
         p2 = raw_input(' \033[1;92m[2]Name + digit: ')
         pass3 = raw_input(' \033[1;92m[3]Password: ')
-	      pass4 = raw_input(' \033[1;92m[4]Password: ')
+	pass4 = raw_input(' \033[1;92m[4]Password: ')
         pass5 = raw_input(' \033[1;92m[5]Password: ')
         idt = raw_input(' \033[1;93m[★]Enter id: ')
         
@@ -458,7 +458,7 @@ def a_s():
         p1 = raw_input(' \033[1;92m[1]Name + digit: ')
         p2 = raw_input(' \033[1;92m[2]Name + digit: ')
         pass3 = raw_input(' \033[1;92m[3]Password: ')
-	      pass4 = raw_input(' \033[1;92m[4]Password: ')
+	pass4 = raw_input(' \033[1;92m[4]Password: ')
         pass5 = raw_input(' \033[1;92m[5]Password: ')
         try:
 	    idlist= raw_input('[+] File Name: ')
